@@ -8,4 +8,6 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-https://www.linkedin.com/in/garon-m-3000bc1
+https://www.linkedin.com/in/garon-m-3000bc1,
+
+garon247@gmail.com
