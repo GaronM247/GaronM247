@@ -6,9 +6,9 @@
   - [Active Directory Home Lab](https://github.com/1/Algorithms-Practice)
   
 
-  -  [SIEM Bulit im Azure Exposure](https://github.com//   )
+  -  [SIEM Bulit in Azure Exposure](https://github.com//   )
 
-  -   [NIST Business Framework/Audit](https://github.com//Sentinel-Lab)
+  -   [Vulnerability Management](https://github.com//Sentinel-Lab)
     
     
     
