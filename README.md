@@ -4,10 +4,10 @@
   
   -  [SIEM Bulit in Azure Exposure](https://github.com//   )
 
-  -   [Vulnerability Management](https://github.com//Sentinel-Lab)
+  -   [Vulnerability Management](https://github.com//)
     
     
-  -  [   ](https://github.com//   )
+  -  [PowerShell-Integrity-FIM-Lab](https://github.com//   )
 
 
 <h2> 🤳 Connect with me:</h2>
