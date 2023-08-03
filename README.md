@@ -1,8 +1,9 @@
-<h1 align="center">Welcome <img width="8%" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"/>
+<h1 align="center">Welcome <img width="8%" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"
+
 
 <br/>
 <br/>
-<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=435&lines=A+Cyber Security Analyst;Problem+Solver;Inspiring SOC Analyst"/></p>
+<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=435&lines=+ Iam Garon Miller;Cyber Security Analyst;Problem+Solver;Inspiring SOC Analyst"/></p>
 
 <br/>
 
