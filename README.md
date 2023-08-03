@@ -1,3 +1,4 @@
+
 <h1 align="center">Welcome <img width="8%" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"
 
 
@@ -14,7 +15,7 @@
 
    I am a passionate and aspiring Cybersecurity Professional with a strong interest in Vulnerability Analysis, Network Security, SOC Analyst enthusiast, Governance, Risk and Compliance, and NIST framework. Excellent multitasker with strong communication skills, ready to contribute as a Cyber Security Analyst and ensure organizational success.
 
-  <h2 align="center">😃 About Me</h2>
+  <h2 align="center"> About Me</h2>
 
 - 🌱 I’m currently learning **Blue Team Level 1 & **
 
