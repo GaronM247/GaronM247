@@ -15,21 +15,6 @@
 
    I am a passionate and aspiring Cybersecurity Professional with a strong interest in Vulnerability Analysis, Network Security, SOC Analyst enthusiast, Governance, Risk and Compliance, and NIST framework. Excellent multitasker with strong communication skills, ready to contribute as a Cyber Security Analyst and ensure organizational success.
 
-  <h2 align="center"> About Me</h2>
-
-- 🌱 I’m currently learning **Blue Team Level 1 & **
-
-- 💬 Ask me about **Cyber Security *
-
-- 📫 How to reach me **garon247@gmail.com** 📩
-
-- Self Motivated 
-
-- Quick learner  
-
--  Fun fact **I am An artist**  🎨
-
-
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
   -  [SIEM Bulit in Azure Exposure](https://github.com//   )
@@ -40,5 +25,23 @@
   -  [PowerShell-Integrity-FIM-Lab](https://github.com//   )
 
 
-<h2> 🤳 Connect with me:</h2>
-https://www.linkedin.com/in/garon-m-3000bc1
+  <h2 align="center"> About Me</h2>
+
+- 🌱 I’m currently learning **Blue Team Level 1 & Microsoft SC -200 **
+
+- 💬 Ask me about **Cyber Security *
+
+- 📫 How to reach me **garon247@gmail.com** 📩**https://www.linkedin.com/in/garon-m-3000bc1**
+
+- Self Motivated 
+
+- Quick learner  
+
+-  Fun fact **I am An artist**  🎨
+
+
+
+
+  
+
+
