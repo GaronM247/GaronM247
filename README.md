@@ -29,9 +29,9 @@
 
 - 🌱 I’m currently learning **Blue Team Level 1 & Microsoft SC -200 **
 
-- 💬 Ask me about **Cyber Security *
+- 💬 Ask me about **Cyber Security **
 
-- 📫 How to reach me **garon247@gmail.com** 📩**https://www.linkedin.com/in/garon-m-3000bc1**
+- 📫 How to reach me **garon247@gmail.com** 
 
 - Self Motivated 
 
