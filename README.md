@@ -22,7 +22,7 @@
   -   [Vulnerability Management](https://github.com//)
     
     
-  -  [PowerShell-Integrity-FIM-Lab](https://github.com//   )
+  -  [PowerShell-Integrity (FIM)](https://github.com//   )
 
 
   <h2 align="center"> About Me</h2>
