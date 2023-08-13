@@ -24,7 +24,18 @@
     
   -  [PowerShell-Integrity (FIM)](https://github.com/GaronM247/PowerShell-File-Integrity-Monitoring-FIM-)
 
-     
+
+<h2> Certifications :</h2>
+<br/>Security+: CompTIA <br/>  
+  <br/>Linux Command Line: Udemy <br/>                                                                
+    <br/> Information Technology Support Services: Google  <br/> 
+      <br/>GRC Security Analyst: Simply Cyber LLC <br/>
+       <br/>(SOX) ITGC Audit Concepts & Coordination: Udemy <br/>
+         <br/>Cloud System Security Platform and Infrastructure: Skillsoft Metrix Learning C.T.<br/>
+           <br/>Mitigating Security Risk: Skillsoft Metrix Learning C.T.<br/>
+             <br/>Cyber Security Audits: Skillsoft Metrix Learning C.T.<br/>
+
+
   <h2 align="center"> About Me</h2>
 
 - 🌱 I’m currently learning **Blue Team Level 1 & Microsoft SC -200 **
