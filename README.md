@@ -26,17 +26,14 @@
 
 
 <h2> Certifications :</h2>
-<br/>Security+: CompTIA <br/>  
-  <br/>Linux Command Line: Udemy <br/>                                                                
-    <br/> Information Technology Support Services: Google  <br/> 
-      <br/>GRC Security Analyst: Simply Cyber LLC <br/>
-       <br/>(SOX) ITGC Audit Concepts & Coordination: Udemy <br/>
-         <br/>Cloud System Security Platform and Infrastructure: Skillsoft Metrix Learning C.T.<br/>
-           <br/>Mitigating Security Risk: Skillsoft Metrix Learning C.T.<br/>
-             <br/>Cyber Security Audits: Skillsoft Metrix Learning C.T.<br/>
 
+- [CompTIA Security+](https://www.credly.com/badges/118de6d9-93d5-4fa8-b9e6-ab74cbfdb947/public_url)            
+- [Linux Command Line: Udemy]( https://udemy-certificate.s3.amazonaws.com/image/UC-52738530-e741-4e16-8046-e5d7212dee2e.jpg)
+- [Technology Support Services: Google]( https://www.coursera.org/account/accomplishments/certificate/58P6EMSXCZP8)
+- [GRC Security Analyst: Simply Cyber LLC]()
+- [(SOX) ITGC Audit Concepts & Coordination: Udemy]( https://udemy-certificate.s3.amazonaws.com/image/UC-f9dc2e45-86d5-47c9-8781-5693f6af537a.jpg)
 
-  <h2 align="center"> About Me</h2>
+ <h2> About Me: </h2>
 
 - 🌱 I’m currently learning **Blue Team Level 1 & Microsoft SC -200 **
 
