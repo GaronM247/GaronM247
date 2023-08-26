@@ -19,8 +19,9 @@
   
   -  [SIEM Bulit in Azure Exposure](https://github.com/GaronM247/SIEM-Built-in-Azure-Exposure)
 
-  -   [Vulnerability Management](https://github.com//)
-    
+  -   [Vulnerability Management](    )
+     
+-    [Python Password Generator](https://github.com//)
     
   -  [PowerShell-Integrity (FIM)](https://github.com/GaronM247/PowerShell-File-Integrity-Monitoring-FIM-)
 
