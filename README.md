@@ -17,7 +17,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
-  -  [SIEM Bulit in Azure Exposure](https://github.com/GaronM247/SIEM-Built-in-Azure-Exposure.git)
+  -  [SIEM Bulit in Azure Exposure](https://github.com/GaronM247/SIEM-Built-in-Azure-Exposure)
 
   -   [Vulnerability Management](https://github.com//)
     
