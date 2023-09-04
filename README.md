@@ -19,11 +19,9 @@
   
   -  [SIEM /Bulit in Azure Exposure](https://github.com/GaronM247/SIEM-Built-in-Azure-Exposure)
    
-  -  [Network-Traffic-Analysis]()
-   
   -   [Vulnerability Management/ OpenVas](https://github.com/GaronM247/Vulnerability-Management/blob/main/README.md)
      
--    [Python/ Password Generator](https://github.com/GaronM247/Python--Password-Generator)
+  -   [Python/ Password Generator](https://github.com/GaronM247/Python--Password-Generator)
     
   -  [PowerShell-Integrity (FIM)](https://github.com/GaronM247/PowerShell-File-Integrity-Monitoring-FIM-)
 
