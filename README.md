@@ -28,7 +28,9 @@
 
 <h2> Certifications :</h2>
 
-- [CompTIA Security+](https://www.credly.com/badges/118de6d9-93d5-4fa8-b9e6-ab74cbfdb947/public_url)            
+- [CompTIA Security+](https://www.credly.com/badges/118de6d9-93d5-4fa8-b9e6-ab74cbfdb947/public_url)
+- [AZ-500: Azure Security Engineer Associate. : Microsoft Corporation](l)
+- [SC-200: Microsoft Security Operations Analyst.: Udemy]( https)           
 - [Linux Command Line: Udemy]( https://udemy-certificate.s3.amazonaws.com/image/UC-52738530-e741-4e16-8046-e5d7212dee2e.jpg)
 - [Technology Support Services: Google]( https://www.coursera.org/account/accomplishments/certificate/58P6EMSXCZP8)
 - [GRC Security Analyst: Simply Cyber LLC]()
@@ -36,7 +38,7 @@
 
  <h2> About Me: </h2>
 
-- 🌱 I’m currently learning **Blue Team Level 1 & Microsoft SC -200 **
+- 🌱 I’m currently learning **SC-100  **
 
 - 💬 Ask me about **Cyber Security **
 
