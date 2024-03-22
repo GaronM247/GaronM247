@@ -36,9 +36,9 @@ I stand prepared to infuse your team with my unique amalgamation of skills and e
 
 - [CompTIA Security+](https://www.credly.com/badges/118de6d9-93d5-4fa8-b9e6-ab74cbfdb947/public_url)
 - [AZ-500: Azure Security Engineer Associate. : Microsoft Corporation](l)
-- [SC-200: Microsoft Security Operations Analyst.: Udemy](https://udemy-certificate.s3.amazonaws.com/image/UC-575d45fa-5f03-4046-9cc7-23361c9f8326.jpg)          
+- [SC-200: Microsoft Security Operations Analyst. : Udemy](https://udemy-certificate.s3.amazonaws.com/image/UC-575d45fa-5f03-4046-9cc7-23361c9f8326.jpg)          
 - [Linux Command Line: Udemy]( https://udemy-certificate.s3.amazonaws.com/image/UC-52738530-e741-4e16-8046-e5d7212dee2e.jpg)
-- [Technology Support Services: Google]( https://www.coursera.org/account/accomplishments/certificate/58P6EMSXCZP8)
+- [Technology Support Services: Google](https://www.coursera.org/account/accomplishments/certificate/58P6EMSXCZP8)
 - [GRC Security Analyst: Simply Cyber LLC]()
 - [(SOX) ITGC Audit Concepts & Coordination: Udemy]( https://udemy-certificate.s3.amazonaws.com/image/UC-f9dc2e45-86d5-47c9-8781-5693f6af537a.jpg)
 
